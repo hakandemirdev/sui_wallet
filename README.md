@@ -12,3 +12,7 @@ apt install screen
 apt-get update
 
 `apt get install`
+
+```
+apt install
+```
