@@ -1,4 +1,5 @@
 # sui_wallet
+## açıklama
 Downloading sui wallet and creating account
 -Sui Cüzdan indirme ve hesap oluşturma-
 Twitter adresim: [Tıkla](https://twitter.com/hakandmr99)
