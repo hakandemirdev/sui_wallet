@@ -10,3 +10,5 @@ Aşağıdaki kodu kopyalayın ve yapıştırın:
 git status
 apt install screen
 apt-get update
+
+`apt get install`
