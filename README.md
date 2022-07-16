@@ -16,3 +16,9 @@ apt-get update
 ```
 apt install
 ```
+
+
+###kurulum
+```sh
+apt get
+```
