@@ -26,3 +26,7 @@ apt get
 apt
 screen
 ```
+
+<p>
+  yüzde yüz haklı olduğuna emin olduğum doktor. bakın köyde değil, istanbul'da yaşıyorum ama ne zaman toplu taşıma kullansam, ki halkımız sağolsun son 10 senede 3-5 defayı geçmez, burnumun direğini sikertecek derecede kokan bir kokarcaya denk geliyorum. iş çıkış saati olsa anlayabilirim. ulan sabah 9-10da ne yaptın da güneşte çürümüş salatalık gibi kokuyorsun? pisiz arkadaşlar. bunu kabul edelim. temizlik çoğu insan için lüks olmuş ya da önceden de öyleydi. leş leş yaşayıp gidiyorlar.
+  </p>
