@@ -18,7 +18,9 @@ apt install
 ```
 
 
-###kurulum
+### kurulum
 ```sh
 apt get
+apt
+screen
 ```
