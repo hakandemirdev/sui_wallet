@@ -15,6 +15,8 @@ apt-get update
 
 ```
 apt install
+apt screen
+apt
 ```
 
 
