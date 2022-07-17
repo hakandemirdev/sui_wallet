@@ -29,3 +29,7 @@ Artık cüzdanımıza test token'ı alabilir ve test işlemleri yapabiliriz.
 
 Daha sonra discorda giriyoruz ve [Discord](https://discord.gg/8G2SQvwA) #devnet-faucet kanalından oluşturduğumuz cüzdan adresine test tokenı talebinde bulunuyoruz.
 #devnet-faucet kanalına ```!faucet cüzdanadresimiz ```  yazarak test token alıyoruz.
+
+Artık token alma - gönderme , nft mintleme, nft alma - gönderme işlemleri yapabiliriz.
+
+# Token ve NFT işlemleri
