@@ -1,5 +1,5 @@
 
-## Sui cüzdan kurulumu
+# Sui cüzdan kurulumu
 
 Google Chrome ile aşağıdaki linke tıklıyoruz ve açılan sayfada "Chrome'a ekle" butonuna basıyoruz.
 
@@ -32,4 +32,4 @@ Daha sonra discorda giriyoruz ve [Discord](https://discord.gg/8G2SQvwA) #devnet-
 
 Artık token alma - gönderme , nft mintleme, nft alma - gönderme işlemleri yapabiliriz.
 
-# Token ve NFT işlemleri
+## Token ve NFT işlemleri
