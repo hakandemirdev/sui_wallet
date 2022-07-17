@@ -33,3 +33,8 @@ Daha sonra discorda giriyoruz ve [Discord](https://discord.gg/8G2SQvwA) #devnet-
 Artık token alma - gönderme , nft mintleme, nft alma - gönderme işlemleri yapabiliriz.
 
 ## Token ve NFT işlemleri
+
+Token göndermek için sırasıyla alıcının cüzdan adresini ve göndereceğimiz miktarı yazarak "send" butonuna basmamız yeterli.
+
+![This is an image](https://i.imgur.com/gVA597m.jpg)
+![This is an image]([img]https://i.imgur.com/eAEv4FO.jpg[/img])
