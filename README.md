@@ -10,3 +10,9 @@ Google Chrome ile aşağıdaki linke tıklıyoruz ve açılan sayfada "Chrome'a 
 Çıkan diyalog penceresinde "Uzantı Ekle" butonuna basıyoruz.
 
 ![This is an image](https://i.imgur.com/ZTLjQpb.png)
+
+"Get Started" butonuna basıyoruz ve karşımıza aşağıdaki ekran geliyor.
+Eğer daha önceden cüzdan oluşturmuşsak, cüzdanımıza ulaşmak için "Import a wallet" butonuna basıyoruz.
+Yeni bir cüzdan oluşturmak içinse "Create new wallet" butonuna basıyoruz.
+
+![This is an image](https://i.imgur.com/GxgtS8h.jpg)
