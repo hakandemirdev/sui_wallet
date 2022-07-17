@@ -24,3 +24,7 @@ Yeni bir cüzdan oluşturmak içinse "Create new wallet" butonuna basıyoruz.
 ve cüzdanımız aşağıdaki gibi kullanmaya hazır hale geliyor.
 
 ![This is an image](https://i.imgur.com/dk7GM91.jpg)
+
+Artık cüzdanımıza test token'ı alabilir ve test işlemleri yapabiliriz.
+
+Daha sonra discorda giriyoruz ve [Discord](https://discord.gg/8G2SQvwA) #devnet-faucet kanalından oluşturduğumuz cüzdan adresine test tokenı talebinde bulunuyoruz.
