@@ -37,4 +37,4 @@ Artık token alma - gönderme , nft mintleme, nft alma - gönderme işlemleri ya
 Token göndermek için sırasıyla alıcının cüzdan adresini ve göndereceğimiz miktarı yazarak "send" butonuna basmamız yeterli.
 
 ![This is an image](https://i.imgur.com/gVA597m.jpg)
-![This is an image]([img]https://i.imgur.com/eAEv4FO.jpg[/img])
+![This is an image](https://i.imgur.com/eAEv4FO.jpg)
