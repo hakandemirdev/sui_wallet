@@ -20,3 +20,7 @@ Yeni bir cüzdan oluşturmak içinse "Create new wallet" butonuna basıyoruz.
 "Create" butonuna bastıktan sonra 12 kelimeden oluşan kurtarma parolası otomatik olarak oluşturuluyor. 12 kelimelik kurtarma parolasını güvenli bir yere kaydediyoruz. Kurtarma parolasını kaybedersek bir daha cüzdanımıza ulaşamayız. "Done" butonuna basarak cüzdanımızı oluşturuyoruz.
 
 ![This is an image](https://i.imgur.com/sKU0XDp.jpg)
+
+ve cüzdanımız aşağıdaki gibi kullanmaya hazır hale geliyor.
+
+![This is an image](https://i.imgur.com/dk7GM91.jpg)
