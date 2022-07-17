@@ -38,3 +38,15 @@ Token göndermek için sırasıyla alıcının cüzdan adresini ve göndereceği
 
 ![This is an image](https://i.imgur.com/gVA597m.jpg)
 ![This is an image](https://i.imgur.com/eAEv4FO.jpg)
+
+Ayarlar butonuna bastıktan sonra "Mint Demo NFT" butonu ile demo nft mintleyebiliriz.
+
+![This is an image](https://i.imgur.com/f7wYMDS.jpg)
+
+NFT göndermek için üstten NFT cüzdanımıza tıklıyoruz ve göndermek istediğimiz nft'nin sağında bulunan "send" butonuna basıyoruz.
+
+![This is an image](https://i.imgur.com/K2q2Awd.jpg)
+
+Göndereceğimiz cüzdan adresini girdikten sonra "Send" butonuna basarak nft gönderimini gerçekleştiriyoruz.
+
+![This is an image](https://i.imgur.com/hYXPKfP.jpg)
