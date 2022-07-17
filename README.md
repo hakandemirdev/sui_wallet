@@ -27,4 +27,4 @@ ve cüzdanımız aşağıdaki gibi kullanmaya hazır hale geliyor.
 
 Artık cüzdanımıza test token'ı alabilir ve test işlemleri yapabiliriz.
 
-Daha sonra discorda giriyoruz ve [Discord]([https://discord.gg/8G2SQvwA](https://discord.gg/sui)) #devnet-faucet kanalından oluşturduğumuz cüzdan adresine test tokenı talebinde bulunuyoruz.
+Daha sonra discorda giriyoruz ve [Discord](https://discord.gg/8G2SQvwA) #devnet-faucet kanalından oluşturduğumuz cüzdan adresine test tokenı talebinde bulunuyoruz.
